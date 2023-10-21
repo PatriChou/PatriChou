@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PatriChou
+- 👋 Hi, I’m Patrick.
 - 🌱 I’m currently learning HLS.
 - 📫 How to reach me?  patrick20804@gmail.com
 
